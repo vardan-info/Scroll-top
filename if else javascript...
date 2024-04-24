@@ -1,0 +1,7 @@
+function checkValue(a, b) {
+  if (a === 1)
+    if (b === 2)
+      console.log("2");
+  else
+    console.log("1");
+}
