@@ -1,0 +1,9 @@
+let fruits = ["banan"]
+
+let arr = fruits; 
+
+alert( arr === fruits ); // true
+
+arr.push("tanz"); 
+
+alert( fruits ); 
