@@ -1,0 +1,11 @@
+
+
+const number = prompt("number ");
+
+
+if (number > 0) {
+    
+    console.log("positive number");
+}
+
+console.log("number2");
